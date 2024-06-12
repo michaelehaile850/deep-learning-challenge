@@ -6,7 +6,7 @@
 
 </div>
 
-The Modle demonstrates a steady improvement in accuracy over the different epochs, maintaining a constant accuracy around 0.72. There is a minimal overfitting but not substaintial gap between training accracy and validation accuracy. suggesting that the model is not severly overfitting the training data.
+The Model demonstrates a steady improvement in accuracy over the different epochs, maintaining a constant accuracy around 0.72. There is a minimal overfitting but not substaintial gap between training accracy and validation accuracy. suggesting that the model is not severly overfitting the training data.
 
 I run the model a total of 5 times with a different hidden layers , different units and dropouts to optimize the accuracy.however it plateaued, modification such as adjusting the learning rate, increasing the model complexity, employing technique like dropout for regularization might help in achieving an accuracy close to 0.75.
 
